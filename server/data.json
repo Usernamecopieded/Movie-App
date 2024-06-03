@@ -1,0 +1,184 @@
+[
+ 
+  
+  [
+    {
+      "title": "Sample Data File 2024",
+      "releaseYear": "2020",
+      "imageUrl": "/images/inception.jpg"
+    },
+
+
+    
+    {
+      "title": "Breaking Bad",
+      "releaseYear": "2020",
+      "imageUrl": "Entertainment_App/public/images/TV/Bad.jpg"
+    },
+    {
+      "title": "The Witcher",
+      "releaseYear": "2020",
+      "imageUrl": "Entertainment_App/public/images/TV/Witcher.jpg"
+    },
+    {
+      "title": "Stranger Things",
+      "releaseYear": "2016",
+      "imageUrl": "Entertainment_App/public/images/TV/Stranger.jpg"
+    },
+    {
+      "title": "Trigger Warning",
+      "releaseYear": "2018",
+      "imageUrl": "Entertainment_App/public/images/TV/Warning.jpg"
+    },
+    {
+      "title": "Veinticinco Veintiuno",
+      "releaseYear": "1994",
+      "imageUrl": "Entertainment_App/public/images/TV/Veint.jpg"
+    },
+    {
+      "title": "SPY",
+      "releaseYear": "1994",
+      "imageUrl": "Entertainment_App/public/images/TV/SPY.jpg"
+    },
+    {
+      "title": "The Silence",
+      "releaseYear": "2019",
+      "imageUrl": "Entertainment_App/public/images/TV/Silence.jpg"
+    },
+    {
+      "title": "The Silent Sea",
+      "releaseYear": "1999",
+      "imageUrl": "Entertainment_App/public/images/TV/Sea.jpg"
+    },
+    {
+      "title": "Queens Gambit",
+      "releaseYear": "1994",
+      "imageUrl": "Entertainment_App/public/images/TV/Gambit.jpg"
+    },
+    {
+      "title": "Entre la Vida Y la Muerte",
+      "releaseYear": "1999",
+      "imageUrl": "Entertainment_App/public/images/TV/Entrela.jpg"
+    },
+    {
+      "title": "Control Z",
+      "releaseYear": "1972",
+      "imageUrl": "Entertainment_App/public/images/TV/Control 2.jpg"
+    },
+    {
+      "title": "The Crown",
+      "releaseYear": "2016",
+      "imageUrl": "Entertainment_App/public/images/TV/Crown.jpg"
+    },
+    {
+      "title": "Alice in Borderland",
+      "releaseYear": "2015",
+      "imageUrl": "/Entertainment_App/public/images/TV/Alice.jpg"
+    },
+    {
+      "title": "1899",
+      "releaseYear": "2011",
+      "imageUrl": "Entertainment_App/public/images/TV/1899.jpg"
+    },
+    {
+      "title": "13 Reasons Why",
+      "releaseYear": "2019",
+      "imageUrl": "Entertainment_App/public/images/TV/13 Reason.jpg"
+    },
+    {
+      "title": "Lucifer",
+      "releaseYear": "2016",
+      "imageUrl": "/images/westworld.jpg"
+    },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    {
+      "title": "Your Name",
+      "releaseYear": "2016",
+      "imageUrl": "Entertainment_App/public/images/Anime/Your Name.jpg"
+    },
+    {
+      "title": "A Whisker Away",
+      "releaseYear": "2020",
+      "imageUrl": "Entertainment_App/public/images/Anime/Whisker.jpg"
+    },
+    {
+      "title": "Weathering With You",
+      "releaseYear": "2019",
+      "imageUrl": "Entertainment_App/public/images/Anime/Weathering With You.jpg"
+    },
+    {
+      "title": "Violet Evergarden",
+      "releaseYear": "2020",
+      "imageUrl": "Entertainment_App/public/images/Anime/Violet.jpg"
+    },
+    {
+      "title": "Tokyo Revengers",
+      "releaseYear": "2021",
+      "imageUrl": "Entertainment_App/public/images/Anime/TOKOYO.jpg"
+    },
+   
+    {
+      "title": "Suzume",
+      "releaseYear": "2022",
+      "imageUrl": "Entertainment_App/public/images/Suzume.jpg"
+    },
+    {
+      "title": "Spirited Away",
+      "releaseYear": "2001",
+      "imageUrl": "Entertainment_App/public/images/Spirited away.jpg"
+    },
+    {
+      "title": "Spider-man : Across the Spider-Verse",
+      "releaseYear": "2023",
+      "imageUrl": "Entertainment_App/public/images/Spider-man.jpg"
+    },
+    {
+      "title": "Princess Mononoke",
+      "releaseYear": "1997",
+      "imageUrl": "Entertainment_App/public/images/Prince Mononoke'.jpg"
+    },
+    {
+      "title": "One Piece",
+      "releaseYear": "1999",
+      "imageUrl": "Entertainment_App/public/images/One Piece.jpg"
+    },
+    {
+      "title": "Naruto",
+      "releaseYear": "2002",
+      "imageUrl": "Entertainment_App/public/images/Naruto.jpg"
+    },
+    {
+      "title": "Naruto Shippuden",
+      "releaseYear": "2007",
+      "imageUrl": "Entertainment_App/public/images/Naruto Shippuden.jpg"
+    },
+    {
+      "title": "My Hero Academia",
+      "releaseYear": "2016",
+      "imageUrl": "Entertainment_App/public/images/My Hero.jpg"
+    },
+    {
+      "title": "JUJUTSU KAISEN",
+      "releaseYear": "2020",
+      "imageUrl": "Entertainment_App/public/images/JUJUSTU.jpg"
+    },
+    {
+      "title": "Demon Slayer",
+      "releaseYear": "2019",
+      "imageUrl": "Entertainment_App/public/images/Demon.jpg"
+    },
+    {
+      "title": "Attack on Titan",
+      "releaseYear": "2013",
+      "imageUrl": "Entertainment_App/public/images/Attack.jpg"
+    }
+   
+  ]]
+  
