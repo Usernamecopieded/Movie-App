@@ -14,19 +14,20 @@ const TvSeriesPage = () => {
       title: '13 Reason Why',
       releaseYear: '2020',
       posterUrl: '/images/13 Reason.jpg  ',
-      videoUrl: '/images/Avatar_ The Way of Water.mp4',
+      videoUrl: '/images/TrimLion King[Trim].mp4',
+     
     },
     {
       title: 'The Punisher',
       releaseYear: '2020',
       posterUrl: '/images/Punisher.jpg ',
-      videoUrl: '/images/Avatar_ The Way of Water.mp4',
+      videoUrl: '/images/TrimLion King[Trim].mp4',
     },
     {
       title: 'You',
       releaseYear: '2020',
       posterUrl: '/images/You.jpg ',
-      videoUrl: '/images/Avatar_ The Way of Water.mp4',
+      videoUrl: '/images/TrimLion King[Trim].mp4',
     },
     {
       title: 'Human',
@@ -38,14 +39,14 @@ const TvSeriesPage = () => {
       title: 'The Crown',
       releaseYear: '2020',
       posterUrl: '/images/Crown.jpg ',
-      videoUrl: '/images/Avatar_ The Way of Water.mp4 ',
+      videoUrl: '/images/TrimLion King[Trim].mp4',
     },
    
     {
       title: 'Midnight Mass',
       releaseYear: '2020',
       posterUrl: '/images/MASs.jpg ',
-      videoUrl: '/images/Avatar_ The Way of Water.mp4 ',
+      videoUrl: '/images/TrimLion King[Trim].mp4',
     },
     
    
@@ -55,38 +56,38 @@ const TvSeriesPage = () => {
   title: 'JUJUSTU KAISEN',
   releaseYear: '2020',
   posterUrl: '/images/JUJUSTU.jpg ',
-  videoUrl: '/images/YT GOJO.mp4',
+  videoUrl: '/images/Trim ZORO.mp4',
 },
     {
       title: 'Naruto',
       releaseYear: '2020',
       posterUrl: '/images/Naruto.jpg ',
-      videoUrl: 'images/Entertainment App Movie Video Sample.mp4.mp4 ',
+      videoUrl: '/images/Trim ZORO.mp4',
     },
     {
       title: 'One Piece',
       releaseYear: '2020',
       posterUrl: '/images/One Piece.jpg',
-      videoUrl: '/images/ZORO.mp4',
+      videoUrl: '/images/Trim ZORO.mp4',
       
     },
     {
       title: 'Naruto Shippuden',
       releaseYear: '2002',
       posterUrl: '/images/Naruto Shippuden.jpg ',
-      videoUrl: '/images/YT Utachi _uchiha.mp4',
+      videoUrl: '/images/Trim ZORO.mp4',
     },
     {
       title: 'Demon Slayer',
       releaseYear: '2020',
-      posterUrl: '/images/YT Demon.jpg',
-      videoUrl: '/images/YT DEMON.mp4',
+      posterUrl: '/images/Demon.jpg',
+      videoUrl: '/images/Trim ZORO.mp4',
     },
     {
       title: 'My Hero Academia: World Heroes Mission',
       releaseYear: '2020',
       posterUrl: '/images/My Hero.jpg ',
-      videoUrl: '/images/YT HERO.mp4',
+      videoUrl: '/images/Trim ZORO.mp4',
     },
 
 //================================================
@@ -166,7 +167,7 @@ const TvSeriesPage = () => {
       {
         title: 'Money Heist ',
         releaseYear: '2020',
-        posterUrl: '/images/Money Heist.jpg ',
+        posterUrl: '/images/Money Heist.jpg',
         videoUrl: ' ',
       },
       {
