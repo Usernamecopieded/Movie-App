@@ -35,7 +35,7 @@ const TrendingPage = () => {
       title: 'Godzilla & Kong',
       releaseYear: '2024',
       imageUrl: '/images/Z dinosaur.jpg',
-      videoUrl: '/images/[Trim]Godzilla x Kong.mp4',
+      videoUrl: '/images/Trim Godzilla x Kong.mp4',
     },
     
     {
