@@ -1,0 +1,12 @@
+/* client/src/components/MoviesPage.css */
+.trending-list {
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  gap: 20px;
+  padding-bottom: 20px; /* Add some padding at the bottom to prevent content from being partially hidden */
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
