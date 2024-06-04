@@ -1,0 +1,58 @@
+/* client/src/components/LoginPage.css */
+.login-container {
+  max-width: 400px;
+  margin: 50px auto 0; /* Adjust the top margin to create space below the navbar */
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+  .login-title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .login-input {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .login-btn,
+  .create-profile-btn {
+    width: 100%;
+    background-color: #38c1fc;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .login-btn:hover,
+  .create-profile-btn:hover {
+    background-color: #00b1fd;
+    color: black;
+  }
+  
+  .create-account {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .create-account-link {
+    color: #007bff;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
