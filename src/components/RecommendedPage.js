@@ -14,37 +14,37 @@ const RecommendedPage = () => {
       title: 'Black Adam',
       releaseYear: '2020',
       posterUrl: '/images/Adan.jpg',
-      videoUrl: '/images/Entertainment App Movie Video Sample.mp4.mp4',
+      videoUrl: '/images/TrimEntertainment App Movie Video Sample.mp4[Trim].mp4',
     },
     {
       title: 'Archer',
       releaseYear: '2020',
       posterUrl: '/images/Archer.jpg',
-      videoUrl: '/images/Avatar_ IMAX® (1080p).mp4',
+      videoUrl: '/images/TrimEntertainment App Movie Video Sample.mp4[Trim].mp4',
     },
     {
       title: 'Avatar',
       releaseYear: '2020',
       posterUrl: '/images/Avatar.jpg',
-      videoUrl: '/images/Avatar_ IMAX® (1080p).mp4 ',
+      videoUrl: '/images/TrimEntertainment App Movie Video Sample.mp4[Trim].mp4',
     },
     {
       title: 'Avengers Endgame',
       releaseYear: '2020',
       posterUrl: 'images/Avengers.jpg',
-      videoUrl: '/images/Entertainment App Movie Video Sample.mp4.mp4',
+      videoUrl: '/images/TrimEntertainment App Movie Video Sample.mp4[Trim].mp4',
     },
     {
       title: 'Bird Box',
       releaseYear: '2020',
       posterUrl: '/images/Bird Box.jpg',
-      videoUrl: '/images/Avatar_ IMAX® (1080p).mp4 ',
+      videoUrl: '/images/TrimEntertainment App Movie Video Sample.mp4[Trim].mp4',
     },
     {
         title: 'Black Panther',
         releaseYear: '2020',
-        posterUrl: '/images/Wakanda.jpg',
-        videoUrl: '/images/Avatar_ IMAX® (1080p).mp4  ',
+        posterUrl: '/images/Wakanda 10.jpg',
+        videoUrl: '/images/TrimBlack Panther_ Wakanda Forever[Trim].mp4',
       },
 
 //======================================= > 
@@ -53,45 +53,45 @@ const RecommendedPage = () => {
         title: 'Joker',
         releaseYear: '2020',
         posterUrl: '/images/Joker 5.jpg',
-        videoUrl: ' ',
+        videoUrl: '/images/Trim Godzilla x Kong.mp4',
       },
       
       {
         title: 'Before',
         releaseYear: '2020',
         posterUrl: '/images/Me Before You.jpg',
-        videoUrl: ' ',
+        videoUrl: ' /images/Trim Godzilla x Kong.mp4',
       },
       {
         title: 'The Book Thief',
         releaseYear: '2020',
         posterUrl: '/images/Book Thief.jpg',
-        videoUrl: '',
+        videoUrl: '/images/Trim Godzilla x Kong.mp4',
       },
      
       {
         title: 'Oppenheimer',
         releaseYear: '2020',
-        posterUrl: '/images/Openheimer 1.jpg',
-        videoUrl: ' ',
+        posterUrl: '/images/Oppenheimer.jpg',
+        videoUrl: '/images/Trim Godzilla x Kong.mp4',
       },
 
       {
         title: 'Dune',
         releaseYear: '2020',
         posterUrl: '/images/DUNE.jpg',
-        videoUrl: '/Entertainment_App/public/images/Avatar_ IMAX® (1080p).mp4  ',
+        videoUrl: '/images/TrimDune_ Part Two _[Trim].mp4',
       },
       {
         title: 'Little Womman',
         releaseYear: '2020',
         posterUrl: '/images/Little Woman.jpg',
-        videoUrl: ' ',
+        videoUrl: '/images/Trim Godzilla x Kong.mp4 ',
       },
       {
         title: 'Purple Heart',
         releaseYear: '2020',
-        posterUrl: '/images/Purple Eng.jpg',
+        posterUrl: '/images/Purple.jpg',
         videoUrl: ' ',
       },
 
@@ -101,7 +101,7 @@ const RecommendedPage = () => {
         title: 'Fall',
         releaseYear: '2020',
         posterUrl: '/images/Fall.jpg',
-        videoUrl: ' ',
+        videoUrl: '/images/TrimDune_ Part Two _[Trim].mp4 ',
       },
 
      
@@ -110,19 +110,19 @@ const RecommendedPage = () => {
         title: 'Through my Window',
         releaseYear: '2020',
         posterUrl: '/images/Throught.jpg ',
-        videoUrl: '',
+        videoUrl: '/images/TrimDune_ Part Two _[Trim].mp4',
       },
       {
         title: 'Suzume',
         releaseYear: '2020',
         posterUrl: '/images/Suzume.jpg ',
-        videoUrl: '',
+        videoUrl: '/images/TrimDune_ Part Two _[Trim].mp4',
       },
       {
         title: 'Weathering With You',
         releaseYear: '2020',
         posterUrl: '/images/Weathering With You.jpg',
-        videoUrl: ' ',
+        videoUrl: '/images/TrimDune_ Part Two _[Trim].mp4 ',
       },
      
       
