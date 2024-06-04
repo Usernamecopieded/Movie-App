@@ -1,0 +1,31 @@
+/* client/src/components/SearchBox.css */
+.search-bar {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  padding-left: 2%;
+  padding-right: 2%;
+  justify-content: center; /* Center items horizontally */
+}
+
+.search-bar input {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 500px;
+  margin-right: 5px;
+}
+
+.search-bar button {
+  padding: 10px;
+  background-color: #282c34;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.search-bar button:hover {
+  background-color: #38c1fc;
+  color: black;
+}

@@ -1,0 +1,154 @@
+/* client/src/components/MoviesPage.css */
+
+.movies-header {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #333;
+  padding-left: 2%;
+}
+
+.movies-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center; /* Center-align movie cards */
+}
+
+.movie-card {
+  position: relative;
+  border: 1px solid #ddd;
+  padding: 15px;
+  width: 200px;
+  transition: transform 0.3s, box-shadow 0.3s;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.movie-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.movie-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 14px; /* Adjusted font size for the Play text */
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.7);
+
+  padding: 10px;
+  width: 56px;
+  height: 28px;
+  border-radius: 15px;
+  display: none;
+  text-align: center;
+  line-height: 28px; /* Centering the text vertically */
+}
+
+.movie-card:hover .play-button {
+  display: block;
+}
+
+/* Add the following styles for the bookmark button */
+.bookmark-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 8px 12px;
+  background-color: #38c1fc;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: none; /* Hide initially */
+}
+
+.movie-card:hover .bookmark-button {
+  display: block; /* Show on hover */
+}
+
+.bookmark-button:hover {
+  background-color: #38c1fc;
+  color: black;
+}
+
+/* Add styles for the video overlay */
+.video-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+/* Improve styling for the centered video */
+.centered-video {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%; /* Adjust the maximum width as needed */
+  max-height: 80vh; /* Adjust the maximum height as needed */
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+}
+
+/* Style the close button for the video overlay */
+.close-button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  color: #fff;
+  font-size: 24px;
+}
+
+/* Style the video controls */
+.centered-video-controls {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Style the play/pause button */
+.play-pause-button {
+  cursor: pointer;
+  color: #fff;
+  font-size: 18px;
+}
+
+/* Style the volume control */
+.volume-control {
+  display: flex;
+  align-items: center;
+}
+
+.volume-icon {
+  margin-right: 5px;
+  color: #fff;
+  font-size: 18px;
+}
+
+.volume-slider {
+  width: 80px;
+}
+
+/* Add more styles as needed */

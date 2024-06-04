@@ -1,0 +1,10 @@
+/* client/src/components/Footer.css */
+
+.footer {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
