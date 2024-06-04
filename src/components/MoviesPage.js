@@ -284,7 +284,7 @@ const TvSeriesPage = () => {
       {
         title: 'Attack on Titan',
         releaseYear: '2020',
-        posterUrl: '/images/Attack.jpg ',
+        posterUrl: '/images/Attack.jpg',
         videoUrl: ' /images/YT Lion King.mp4',
       },
       {
