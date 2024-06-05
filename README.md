@@ -33,7 +33,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/FitAndFabulous/Movie-App
+   git clone https://github.com/Usernamecopieded/Movie-App
 
 2. **Install dependencies:**
    ```bash
